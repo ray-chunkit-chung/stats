@@ -12,3 +12,7 @@ http://www.marsja.se/four-ways-to-conduct-one-way-anovas-using-python/
 
 https://plot.ly/python/anova/#oneway-anova
 
+https://people.richland.edu/james/ictcm/2004/twoway.html
+
+https://people.richland.edu/james/lecture/m170/ch13-2wy.html
+
